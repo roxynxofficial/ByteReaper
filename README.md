@@ -38,3 +38,4 @@ Why is DlxPad paid?
 DlxPad is positioned as a premium product because it offers more than basic text editing: it provides a dedicated environment for managing encrypted documents, protecting sensitive analysis reports, and working with the ByteReaper .dlx format.
 
 The paid license supports continued development, security improvements, maintenance, and future functionality.
+Join Discord : https://discord.gg/cFzHDQCkP
